@@ -5,9 +5,9 @@ seaborn
 scikit-learn
 gradio
 GoogleColab
-Logistic Regression
-K-Nearest Neighbors(KNN)
-Random Forest
-Hyperparameter tuning using:
+Logistic-Regression
+K-Nearest-Neighbors(KNN)
+Random-Forest
+Hyperparameter-tuning-using:
 RandomizedSearchCV
 GridSearchCV
