@@ -6,19 +6,19 @@ Fork this repository to your GitHub account.
 
 Clone your fork to your local machine:
 
-git clone https://github.com/your-username/heart-disease-prediction.git
+> git clone https://github.com/your-username/heart-disease-prediction.git
 
 Create a new branch:
 
-git checkout -b feature/YourFeatureName
+> git checkout -b feature/YourFeatureName
 
 Make your changes, write clear commits:
 
-git commit -m "Add feature: XYZ"
+> git commit -m "Add feature: XYZ"
 
 Push to GitHub:
 
-git push origin feature/YourFeatureName
+> git push origin feature/YourFeatureName
 
 Create a Pull Request back to the main branch of this repo.
 
