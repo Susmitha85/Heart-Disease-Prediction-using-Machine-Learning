@@ -24,7 +24,7 @@ This project leverages **machine learning algorithms** to predict the presence o
 * ✅ Model evaluation with metrics like Accuracy, Precision, Recall, F1 Score, and Confusion Matrix.
 * 📈 Feature importance visualization.
 * 🌐 Interactive **Gradio-based UI** for real-time prediction.
-* 🎯 Accuracy achieved over **95%** with Logistic Regression.
+* 🎯 Accuracy achieved over **90%** with Logistic Regression.
 
 ---
 
@@ -87,19 +87,6 @@ These will already be installed in most Colab environments.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/YourFeatureName`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push to the branch: `git push origin feature/YourFeatureName`
-5. Submit a Pull Request.
-
-If you have ideas to improve the prediction accuracy (e.g., integrating **XGBoost**, **deep learning**, or additional features), feel free to propose them.
-
----
 
 ## 💬 Acknowledgements
 
