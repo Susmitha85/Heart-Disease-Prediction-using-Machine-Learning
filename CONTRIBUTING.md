@@ -30,6 +30,8 @@ Write clear, understandable, and commented code.
 
 Test your changes before committing.
 
+If you have ideas to improve the prediction accuracy (e.g., integrating **XGBoost**, **deep learning**, or additional features), feel free to propose them.
+
 Need Help?
 
 Open an issue with detailed explanation of your query. We're happy to help!
