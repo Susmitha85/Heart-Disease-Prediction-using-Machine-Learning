@@ -31,6 +31,7 @@ This project leverages **machine learning algorithms** to predict the presence o
 ## 🛠 Installation Instructions
 
 > ⚠️ **Note**: This project is built and run on **Google Colab**, no local environment setup is required.
+
 > 📁 **Note**: The dataset used in this project is also attached in the dataset branch of the GitHub repository.
 
 To run this project:
