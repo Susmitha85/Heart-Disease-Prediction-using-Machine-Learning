@@ -6,7 +6,7 @@ scikit-learn
 gradio
 GoogleColab
 Logistic-Regression
-K-Nearest-Neighbors(KNN)
+K-Nearest-Neighbors
 Random-Forest
 Hyperparameter-tuning-using:
 RandomizedSearchCV
